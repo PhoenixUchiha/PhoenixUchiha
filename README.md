@@ -6,14 +6,16 @@
 
 <p align="left"> <a href="https://twitter.com/uchihaphoenix_" target="blank"><img src="https://img.shields.io/twitter/follow/uchihaphoenix_?logo=twitter&style=for-the-badge" alt="uchihaphoenix_" /></a> </p>
 
-- 🔭 I’m currently working on **Epic Website**
+- 🔭 I’m currently working on **Discord Bot**
 
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **niketdutta110@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/uchihaphoenix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uchihaphoenix_" height="30" width="40" /></a>
 <a href="https://instagram.com/_art_phoenix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_art_phoenix_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/imphoenix2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imphoenix2k3" height="30" width="40" /></a>
