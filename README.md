@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/sung-jin-woo-gif-15146492340643110863"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
